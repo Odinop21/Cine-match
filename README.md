@@ -8,6 +8,7 @@
 ╚██████╗██║██║ ╚████║███████╗██║ ╚═╝ ██║██║  ██║   ██║   ╚██████╗██║  ██║
  ╚═════╝╚═╝╚═╝  ╚═══╝╚══════╝╚═╝     ╚═╝╚═╝  ╚═╝   ╚═╝    ╚═════╝╚═╝  ╚═╝
 ```
+UNDER DEVELOPMENT!!!!
 
 **Your personal AI-powered movie recommender.**
 Search movies · Get smart recommendations · Find where to stream · Track what you watch.

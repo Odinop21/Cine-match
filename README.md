@@ -8,9 +8,9 @@
 ╚██████╗██║██║ ╚████║███████╗██║ ╚═╝ ██║██║  ██║   ██║   ╚██████╗██║  ██║
  ╚═════╝╚═╝╚═╝  ╚═══╝╚══════╝╚═╝     ╚═╝╚═╝  ╚═╝   ╚═╝    ╚═════╝╚═╝  ╚═╝
 ```
-UNDER DEVELOPMENT!!!!
 
 **Your personal AI-powered movie recommender.**
+UNDER DEVELOPMENT!!!!
 Search movies · Get smart recommendations · Find where to stream · Track what you watch.
 
 [![React](https://img.shields.io/badge/React-18-61DAFB?style=flat-square&logo=react)](https://react.dev)
